@@ -9,7 +9,7 @@
 ## smart contract
 
  - etherscan : https://etherscan.io/address/0x94Dcb7241013E2C6083c59ec5e2eb2f427e822B6#code
- - github:
+ - github : https://github.com/AOQCHAIN/AOQ
 
 ## contract us
 
