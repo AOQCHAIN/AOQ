@@ -19,7 +19,7 @@
     "mongoose": "^5.4.16",
     "mysql2": "^1.6.4",
     "path": "^0.12.7",
-    "sequelize": "^4.41.2",
+    "sequelize": "^5.15.1",
     "tronweb": "^2.2.0"
   },
   "devDependencies": {
